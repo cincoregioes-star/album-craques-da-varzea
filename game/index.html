@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Game — Craques da Várzea Digital</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="game-app">
+    <header class="topbar">
+      <div>
+        <h1>Game Craques da Várzea</h1>
+        <p>Combine bolas, chuteiras, troféus e símbolos do futebol para ganhar pacote.</p>
+      </div>
+      <div class="actions">
+        <button id="btnAudio" type="button">Som: OFF</button>
+        <button id="btnVoltar" type="button">Voltar ao álbum</button>
+      </div>
+    </header>
+
+    <main class="game-layout">
+      <aside class="painel">
+        <div class="placa">
+          <span>Fase</span>
+          <strong id="faseAtual">1</strong>
+        </div>
+
+        <div class="status">
+          <div><span>Pontos</span><b id="pontos">0</b></div>
+          <div><span>Jogadas</span><b id="jogadas">25</b></div>
+          <div><span>Meta</span><b id="meta">800</b></div>
+        </div>
+
+        <div class="objetivo">
+          <h2>Objetivo</h2>
+          <p>Faça a pontuação da fase antes de acabar as jogadas.</p>
+          <div class="barra"><i id="progresso"></i></div>
+        </div>
+
+        <button id="btnReiniciar" type="button" class="btn">Reiniciar fase</button>
+      </aside>
+
+      <section class="centro">
+        <div class="fase-info">
+          <h2 id="tituloFase">Fase 1</h2>
+          <p id="temaFase">Combine peças do futebol e ganhe pacotes para o álbum.</p>
+        </div>
+
+        <div id="tabuleiro" class="tabuleiro"></div>
+
+        <div class="game-buttons">
+          <button id="btnEmbaralhar" type="button" class="btn">Embaralhar</button>
+          <button id="btnConcluir" type="button" class="btn btn-gold" disabled>Receber recompensa</button>
+        </div>
+      </section>
+
+      <aside class="painel">
+        <h2>Figurinha em destaque</h2>
+        <div class="sticker-preview">
+          <img id="stickerImage" src="../figurinhas/figurinha-01.webp" alt="Figurinha" onerror="this.style.display='none';document.getElementById('fallback').style.display='grid'">
+          <div id="fallback" class="fallback">FIGURINHA</div>
+        </div>
+
+        <div class="ajuda">
+          <h3>Regras</h3>
+          <ul>
+            <li>Clique em duas peças vizinhas para trocar.</li>
+            <li>3 ou mais peças iguais somam pontos.</li>
+            <li>Ao vencer, ganha pacote no álbum.</li>
+          </ul>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <audio id="audioMatch" src="../audio/game/match.mp3"></audio>
+  <audio id="audioVitoria" src="../audio/game/vitoria.mp3"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>

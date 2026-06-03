@@ -1,0 +1,35 @@
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#10091f;--panel:#211038;--gold:#ffd166;--gold2:#f4a261;--purple:#7e22ce;--green:#22c55e;--red:#dc2626}
+html,body{width:100%;height:100%;overflow:hidden}
+body{font-family:Arial,Helvetica,sans-serif;background:linear-gradient(135deg,#10091f,#28104d,#13071f);color:#fff}
+button{font-family:inherit;cursor:pointer}
+.game-app{height:100vh;display:grid;grid-template-rows:74px 1fr}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 18px;background:rgba(15,10,32,.96);border-bottom:1px solid rgba(255,209,102,.3)}
+.topbar h1{font-size:1.2rem;color:var(--gold)}.topbar p{font-size:.82rem;color:#fff7ed;margin-top:4px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}.actions button,.btn{border:1px solid rgba(255,209,102,.35);border-radius:999px;padding:10px 14px;background:linear-gradient(180deg,#7e22ce,#3b0764);color:#fff;font-weight:900}
+.btn-gold{background:linear-gradient(135deg,#ffe99a,var(--gold),var(--gold2));color:#32110a}
+.game-layout{height:calc(100vh - 74px);display:grid;grid-template-columns:260px 1fr 280px;gap:12px;padding:12px;overflow:hidden}
+.painel,.centro{border:1px solid rgba(255,209,102,.28);border-radius:22px;background:linear-gradient(145deg,rgba(35,15,64,.96),rgba(20,8,35,.96));padding:14px;box-shadow:0 18px 45px rgba(0,0,0,.24)}
+.placa{text-align:center;border-radius:18px;background:rgba(0,0,0,.22);padding:16px}.placa span{display:block;color:#fff7ed;text-transform:uppercase;font-weight:900;font-size:.7rem}.placa strong{display:block;color:var(--gold);font-size:3rem;line-height:1}
+.status{display:grid;gap:8px;margin:12px 0}.status div{display:flex;justify-content:space-between;background:rgba(255,255,255,.08);border-radius:12px;padding:10px}.status span{color:#fff7ed}.status b{color:var(--gold)}
+.objetivo{background:rgba(255,255,255,.08);border-radius:16px;padding:12px;margin-bottom:12px}.objetivo h2{color:var(--gold);font-size:1rem}.objetivo p{font-size:.86rem;color:#fff7ed;margin:6px 0}
+.barra{height:14px;border-radius:999px;background:rgba(0,0,0,.28);overflow:hidden}.barra i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold),var(--green));transition:.2s}
+.centro{display:grid;grid-template-rows:auto 1fr auto;gap:12px;min-width:0;min-height:0}.fase-info{text-align:center}.fase-info h2{color:var(--gold);font-size:1.5rem}.fase-info p{font-size:.9rem;color:#fff7ed}
+.tabuleiro{align-self:center;justify-self:center;display:grid;grid-template-columns:repeat(8,54px);grid-template-rows:repeat(8,54px);gap:6px;padding:10px;border-radius:22px;background:rgba(0,0,0,.28);box-shadow:inset 0 0 28px rgba(0,0,0,.45)}
+.peca{display:grid;place-items:center;border:2px solid rgba(255,255,255,.15);border-radius:16px;background:linear-gradient(145deg,#fff,#ddd);font-size:1.8rem;transition:.12s;user-select:none}
+.peca.sel{transform:scale(.9);border-color:var(--gold);box-shadow:0 0 0 4px rgba(255,209,102,.25)}
+.game-buttons{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.sticker-preview{height:360px;border-radius:18px;background:rgba(0,0,0,.22);border:1px solid rgba(255,209,102,.3);display:grid;place-items:center;overflow:hidden;margin:12px 0}
+.sticker-preview img{width:100%;height:100%;object-fit:contain}.fallback{display:none;width:100%;height:100%;place-items:center;color:var(--gold);font-weight:900;font-size:2rem}
+.ajuda{background:rgba(255,255,255,.08);border-radius:16px;padding:12px}.ajuda h3{color:var(--gold);margin-bottom:8px}.ajuda li{margin-left:18px;color:#fff7ed;font-size:.86rem;margin-bottom:6px}
+@media(max-width:1000px){html,body{overflow:auto}.game-app{height:auto;min-height:100vh}.game-layout{height:auto;grid-template-columns:1fr}.tabuleiro{grid-template-columns:repeat(8,38px);grid-template-rows:repeat(8,38px);gap:4px}.peca{font-size:1.2rem;border-radius:10px}.sticker-preview{height:280px}}
+
+
+/* GAME — TEMA CRAQUES DA VÁRZEA PRETO + DOURADO */
+:root{--bg:#050505;--panel:#0b0b0b;--gold:#f5c542;--gold2:#c9971a;--purple:#1a1a1a;--green:#f5c542;--red:#dc2626}
+body{background:linear-gradient(135deg,#000000,#0b0b0b,#1a1a1a,#050505) !important}
+.topbar{background:rgba(0,0,0,.97) !important;border-bottom:1px solid rgba(245,197,66,.48) !important}
+.actions button,.btn{background:linear-gradient(180deg,#2b2b2b,#080808) !important;border-color:rgba(245,197,66,.46) !important}
+.painel,.centro{background:linear-gradient(145deg,rgba(20,20,20,.96),rgba(4,4,4,.96)) !important;border-color:rgba(245,197,66,.30) !important}
+.tabuleiro{background:linear-gradient(135deg,#050505,#1c1c1c) !important;border:1px solid rgba(245,197,66,.32) !important}
+.peca{background:linear-gradient(145deg,#fffaf0,#f8e7b0) !important;color:#111111}
