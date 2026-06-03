@@ -1,0 +1,20 @@
+CORREÇÃO MOBILE V9.9 COM INDEX
+
+Substitua no GitHub somente estes 3 arquivos:
+
+1. index.html
+2. mobile-celular-v99.css
+3. mobile-celular-v99.js
+
+Não precisa reenviar:
+- figurinhas/
+- audio/
+- game/
+- dados-tema.js
+- script.js
+- style.css
+
+Depois faça commit e push.
+
+Mensagem sugerida:
+Corrige visualização mobile v9.9

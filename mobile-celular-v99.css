@@ -1,0 +1,229 @@
+
+/* =========================================================
+   CORREÇÃO MOBILE V9.9 — CELULAR REAL
+========================================================= */
+
+@media (max-width: 820px){
+  html, body{
+    width:100% !important;
+    max-width:100% !important;
+    overflow-x:hidden !important;
+    margin:0 !important;
+  }
+
+  body{
+    -webkit-text-size-adjust:100%;
+    touch-action:auto !important;
+  }
+
+  header,
+  .topbar,
+  .app-header,
+  .cabecalho{
+    position:sticky !important;
+    top:0 !important;
+    z-index:50 !important;
+    width:100% !important;
+    max-width:100% !important;
+  }
+
+  .nav,
+  .menu,
+  .botoes,
+  .toolbar{
+    display:flex !important;
+    flex-wrap:wrap !important;
+    gap:8px !important;
+    align-items:center !important;
+    overflow-x:auto !important;
+    padding-bottom:6px !important;
+    -webkit-overflow-scrolling:touch !important;
+  }
+
+  .nav button,
+  .menu button,
+  .botoes button,
+  .toolbar button{
+    flex:0 0 auto !important;
+    min-height:42px !important;
+  }
+
+  .mobile-arraste-info,
+  .mobile-arraste-botoes,
+  .mobile-dica-arrastar{
+    display:none !important;
+  }
+
+  .mobile-arraste-real-wrap,
+  .mobile-scroll-zone{
+    width:100% !important;
+    max-width:100% !important;
+    overflow-x:visible !important;
+    overflow-y:visible !important;
+    padding:0 !important;
+    margin:0 !important;
+  }
+
+  .mobile-arraste-real-track,
+  .mobile-scroll-track{
+    display:block !important;
+    width:100% !important;
+    min-width:0 !important;
+    transform:none !important;
+    padding:0 !important;
+  }
+
+  .livro,
+  .album,
+  .paginas,
+  .pages,
+  .spread,
+  #livro,
+  #album,
+  #paginas{
+    display:block !important;
+    width:100% !important;
+    max-width:100% !important;
+    min-width:0 !important;
+    overflow:visible !important;
+    transform:none !important;
+    margin:0 auto !important;
+  }
+
+  .pagina,
+  .page,
+  .folha{
+    display:block !important;
+    width:calc(100vw - 24px) !important;
+    max-width:calc(100vw - 24px) !important;
+    min-width:0 !important;
+    height:auto !important;
+    min-height:auto !important;
+    margin:12px auto !important;
+    padding:14px !important;
+    overflow:visible !important;
+    transform:none !important;
+    box-sizing:border-box !important;
+  }
+
+  .pagina img,
+  .page img,
+  .folha img{
+    max-width:100% !important;
+    height:auto !important;
+  }
+
+  .figurinhas-grid,
+  .grade-figurinhas,
+  .grid-figurinhas,
+  .figs-grid,
+  .cards-grid,
+  .album-grid,
+  .sticker-grid,
+  .grid{
+    display:grid !important;
+    grid-template-columns:repeat(2, minmax(0, 1fr)) !important;
+    gap:10px !important;
+    width:100% !important;
+    max-width:100% !important;
+  }
+
+  .fig,
+  .figurinha,
+  .card-figurinha,
+  .sticker,
+  .card{
+    width:100% !important;
+    max-width:100% !important;
+    min-width:0 !important;
+    box-sizing:border-box !important;
+  }
+
+  .fig img,
+  .figurinha img,
+  .card-figurinha img,
+  .sticker img{
+    width:100% !important;
+    max-width:100% !important;
+    height:auto !important;
+    object-fit:cover !important;
+    display:block !important;
+  }
+
+  .capa,
+  .cover,
+  .hero,
+  .pagina-capa{
+    width:calc(100vw - 24px) !important;
+    max-width:calc(100vw - 24px) !important;
+    margin:12px auto !important;
+    box-sizing:border-box !important;
+  }
+
+  .capa h1,
+  .cover h1,
+  .hero h1{
+    font-size:clamp(1.6rem, 9vw, 2.5rem) !important;
+    line-height:1.08 !important;
+  }
+
+  .editor-card,
+  .modal-card,
+  .card,
+  .painel{
+    width:calc(100vw - 20px) !important;
+    max-width:calc(100vw - 20px) !important;
+    max-height:92vh !important;
+    overflow:auto !important;
+  }
+
+  .editor-grid,
+  .det,
+  .detalhe-grid{
+    display:block !important;
+  }
+
+  .editor-form,
+  .meta{
+    grid-template-columns:1fr !important;
+  }
+
+  #mobileIrFigurinhasV99{
+    position:fixed;
+    right:12px;
+    bottom:16px;
+    z-index:99990;
+    border:0;
+    border-radius:999px;
+    padding:12px 14px;
+    background:linear-gradient(135deg,#fff4b8,#f5c542,#c9971a);
+    color:#111;
+    font-weight:900;
+    box-shadow:0 10px 30px rgba(0,0,0,.45);
+  }
+
+  .mobileAvisoV99{
+    display:block !important;
+    margin:10px 12px !important;
+    padding:10px 12px !important;
+    border:1px solid rgba(245,197,66,.35) !important;
+    border-radius:14px !important;
+    color:#f5c542 !important;
+    background:rgba(0,0,0,.35) !important;
+    font-weight:900 !important;
+    font-size:.9rem !important;
+  }
+}
+
+@media (max-width:420px){
+  .figurinhas-grid,
+  .grade-figurinhas,
+  .grid-figurinhas,
+  .figs-grid,
+  .cards-grid,
+  .album-grid,
+  .sticker-grid,
+  .grid{
+    grid-template-columns:repeat(2, minmax(0, 1fr)) !important;
+  }
+}
