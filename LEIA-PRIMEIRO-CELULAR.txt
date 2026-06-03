@@ -1,0 +1,6 @@
+IMPORTANTE NO CELULAR:
+1. Baixe o ZIP.
+2. Toque em EXTRAIR/DESCOMPACTAR.
+3. Abra o arquivo index.html dentro da pasta extraída.
+4. Não abra o HTML direto de dentro do ZIP nem pelo preview do WhatsApp.
+5. No celular, as páginas aparecem em carrossel horizontal: arraste para o lado para ver capa, quiz e figurinhas.

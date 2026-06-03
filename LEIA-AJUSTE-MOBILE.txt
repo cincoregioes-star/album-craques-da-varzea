@@ -1,0 +1,12 @@
+AJUSTE MOBILE
+
+No celular, arraste para o lado na área do álbum para ver páginas e figurinhas.
+
+Arquivos adicionados:
+- mobile-arrastar.css
+- mobile-arrastar.js
+
+Teste:
+1. Extraia a pasta.
+2. Abra index.html.
+3. No celular, arraste a área das páginas para esquerda/direita.

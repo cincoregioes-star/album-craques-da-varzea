@@ -1,0 +1,14 @@
+CRAQUES DA VÁRZEA DIGITAL V2 — TESTE UNIÃO DA VÁRZEA FC
+
+Este ZIP já está com:
+1. dados-tema.js do teste União da Várzea Futebol Clube
+2. figurinhas/figurinha-01.webp incluída
+3. pasta figurinhas pronta para receber as demais imagens
+
+Para continuar:
+- gere as imagens restantes usando os prompts
+- salve como figurinha-02.webp até figurinha-72.webp
+- coloque dentro da pasta figurinhas/
+
+Depois publique a pasta no GitHub Pages ou coloque dentro:
+capsula-do-tempo-digital/temas/craques-da-varzea-digital-v2/

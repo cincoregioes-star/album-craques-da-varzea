@@ -1,0 +1,35 @@
+
+/* ===== ABA COMPARTILHAR OFFLINE ===== */
+.share-box{
+  display:grid;
+  gap:14px;
+}
+.share-card{
+  background:rgba(255,255,255,.06);
+  border:1px solid rgba(245,197,66,.28);
+  border-radius:18px;
+  padding:14px;
+}
+.share-card h3{
+  margin:0 0 8px;
+  color:#f5c542;
+}
+.share-card p{
+  margin:0 0 10px;
+  color:#fff7d6;
+  line-height:1.45;
+}
+.share-passos{
+  margin:8px 0 0;
+  padding-left:22px;
+  color:#f8e7b0;
+  line-height:1.5;
+}
+.share-status{
+  padding:12px;
+  border-radius:14px;
+  background:rgba(245,197,66,.12);
+  border:1px solid rgba(245,197,66,.32);
+  color:#fff7d6;
+  font-weight:800;
+}

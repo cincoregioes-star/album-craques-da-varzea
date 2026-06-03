@@ -1,0 +1,74 @@
+# CHECKLIST FINAL
+
+- [x] figurinha-01.webp — Fundação do Time — Comum
+- [x] figurinha-02.webp — Primeiro Escudo — Comum
+- [x] figurinha-03.webp — Primeiro Uniforme — Comum
+- [x] figurinha-04.webp — Campo Onde Tudo Começou — Comum
+- [x] figurinha-05.webp — Primeira Vitória — Comum
+- [x] figurinha-06.webp — Primeiro Título — Especial
+- [x] figurinha-07.webp — Técnico Eduardo Professor Nunes — Comum
+- [x] figurinha-08.webp — Auxiliar Márcio Tático — Comum
+- [x] figurinha-09.webp — Preparador Felipe Pulso — Comum
+- [x] figurinha-10.webp — Massagista Chico Cura — Comum
+- [x] figurinha-11.webp — Presidente Damião Mestre Alves — Comum
+- [x] figurinha-12.webp — Organizador Roberto Planilha — Especial
+- [x] figurinha-13.webp — Tiago Paredão — Comum
+- [x] figurinha-14.webp — Igor Mãos Firmes — Comum
+- [x] figurinha-15.webp — Caio Relâmpago — Comum
+- [x] figurinha-16.webp — Ramon Muralha — Comum
+- [x] figurinha-17.webp — Beto Aço — Comum
+- [x] figurinha-18.webp — Luan Canhoto — Comum
+- [x] figurinha-19.webp — Diego Trator — Comum
+- [x] figurinha-20.webp — Nino Cadência — Comum
+- [x] figurinha-21.webp — Kelvin Maestro — Comum
+- [x] figurinha-22.webp — Rafael Meia-Lua — Comum
+- [x] figurinha-23.webp — Clebson Motorzinho — Comum
+- [x] figurinha-24.webp — Alan Coringa — Comum
+- [x] figurinha-25.webp — Juninho Faísca — Comum
+- [x] figurinha-26.webp — Pedrinho Finta — Comum
+- [x] figurinha-27.webp — Matheus Tanque — Comum
+- [x] figurinha-28.webp — Luiz Bala — Comum
+- [x] figurinha-29.webp — Bruno Matador — Comum
+- [x] figurinha-30.webp — Trio Ofensivo da Várzea — Especial
+- [x] figurinha-31.webp — Uniforme Principal — Comum
+- [x] figurinha-32.webp — Uniforme Reserva — Comum
+- [x] figurinha-33.webp — Escudo Oficial Atual — Dourada
+- [x] figurinha-34.webp — Mascote Leão da Várzea — Comum
+- [x] figurinha-35.webp — Bandeira do Clube — Comum
+- [x] figurinha-36.webp — Faixa Raça Bairro e Tradição — Comum
+- [x] figurinha-37.webp — Torcida Organizada Fúria Dourada — Comum
+- [x] figurinha-38.webp — Torcida Familiar Família UVC — Comum
+- [x] figurinha-39.webp — Torcedor Símbolo Seu João do Tambor — Comum
+- [x] figurinha-40.webp — Zé do Microfone — Comum
+- [x] figurinha-41.webp — Bairro Novo Planalto — Comum
+- [x] figurinha-42.webp — Criançada da Base — Comum
+- [x] figurinha-43.webp — Arena do Cajueiro — Comum
+- [x] figurinha-44.webp — Entrada do Campo — Comum
+- [x] figurinha-45.webp — Banco de Reservas — Comum
+- [x] figurinha-46.webp — Vestiário da Raça — Comum
+- [x] figurinha-47.webp — Aquecimento Pré-Jogo — Comum
+- [x] figurinha-48.webp — Foto Oficial do Elenco — Especial
+- [x] figurinha-49.webp — Maior Goleada — Comum
+- [x] figurinha-50.webp — Clássico do Bairro — Comum
+- [x] figurinha-51.webp — Final da Copa Bairro Unido — Comum
+- [x] figurinha-52.webp — Gol Inesquecível de Kelvin Maestro — Comum
+- [x] figurinha-53.webp — Defesa Milagrosa de Tiago Paredão — Comum
+- [x] figurinha-54.webp — Virada Heroica — Comum
+- [x] figurinha-55.webp — Capitão Ramon Muralha — Comum
+- [x] figurinha-56.webp — Artilheiro Matheus Tanque — Comum
+- [x] figurinha-57.webp — Melhor Goleiro Tiago Paredão — Comum
+- [x] figurinha-58.webp — Melhor Meio-Campo Kelvin Maestro — Comum
+- [x] figurinha-59.webp — Revelação Juninho Faísca — Comum
+- [x] figurinha-60.webp — Jogador Mais Regular Diego Trator — Especial
+- [x] figurinha-61.webp — Mercadinho Central do Bairro — Comum
+- [x] figurinha-62.webp — Auto Peças Beira Rio — Comum
+- [x] figurinha-63.webp — Pousada Sol Nascente — Comum
+- [x] figurinha-64.webp — Padaria Massa Quente — Comum
+- [x] figurinha-65.webp — Farmácia Vida Nova — Comum
+- [x] figurinha-66.webp — Amigos do União da Várzea — Especial
+- [x] figurinha-67.webp — Craque Histórico Paulo Canhão — Lendária
+- [x] figurinha-68.webp — Ídolo da Torcida Tiago Paredão — Lendária
+- [x] figurinha-69.webp — Jovem Promessa Juninho Faísca — Comum
+- [x] figurinha-70.webp — Veterano Respeitado Beto Aço — Comum
+- [x] figurinha-71.webp — Time Campeão de 2015 — Dourada
+- [x] figurinha-72.webp — Selo Álbum Completo — Cromada

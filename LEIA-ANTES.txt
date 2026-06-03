@@ -1,0 +1,13 @@
+CRAQUES DA VÁRZEA DIGITAL V2 — UNIÃO DA VÁRZEA FC
+
+ZIP final refeito com:
+- dados-tema.js do União da Várzea FC
+- 72 figurinhas importadas do arquivo 26.zip quando disponíveis
+- áudio de fundo The Mountain em audio/album/fundo.mp3 e audio/game/fundo.mp3
+- áudio bomba(1).mp3 para efeitos em audio/album e audio/game
+- prompts corrigidos com uniforme fixo, selo no canto superior direito, número da figurinha separado do número da camisa e regra de pé esquerdo/direito
+
+Imagens importadas do 26.zip: 72
+
+Nomes obrigatórios:
+figurinha-01.webp até figurinha-72.webp

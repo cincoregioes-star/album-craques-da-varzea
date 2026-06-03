@@ -1,0 +1,184 @@
+CÁPSULA DO TEMPO DIGITAL — MODELO-BASE OFICIAL
+
+1. OBJETIVO
+Este é o molde-mãe para criar novos álbuns digitais interativos com:
+- páginas temáticas;
+- figurinhas;
+- pacotes;
+- colagem manual;
+- ficha técnica;
+- quiz;
+- game para ganhar pacotes.
+
+2. ARQUIVO PRINCIPAL DE EDIÇÃO
+Edite principalmente:
+
+dados-tema.js
+
+Nele você troca:
+- nome do álbum;
+- subtítulo;
+- textos;
+- páginas;
+- nomes das figurinhas;
+- descrições;
+- perguntas do quiz;
+- recompensas.
+
+3. FIGURINHAS
+Coloque as imagens na pasta:
+
+figurinhas/
+
+Use o padrão:
+
+figurinha-01.webp
+figurinha-02.webp
+figurinha-03.webp
+...
+figurinha-72.webp
+
+Também aceita .png, .jpg e .jpeg.
+
+4. ÁUDIOS
+Coloque os áudios em:
+
+audio/album/
+audio/game/
+
+Sugestão:
+audio/album/fundo.mp3
+audio/album/abrir-pacote.mp3
+audio/album/virar-pagina.mp3
+audio/album/colar-figurinha.mp3
+audio/album/click.mp3
+
+audio/game/match.mp3
+audio/game/vitoria.mp3
+
+Se não colocar áudio, o álbum continua funcionando.
+
+5. GAME
+O game fica em:
+
+game/index.html
+
+Quando o usuário vence, volta para o álbum com recompensa:
+../index.html?gameReward=1
+
+O álbum reconhece e adiciona +1 pacote.
+
+6. NOVOS TEMAS
+Para criar um novo tema:
+- copie esta pasta;
+- renomeie a pasta;
+- altere dados-tema.js;
+- troque as figurinhas;
+- ajuste cores no style.css se quiser;
+- publique no GitHub Pages.
+
+7. TEMAS RECOMENDADOS
+- Craques da Várzea Digital
+- Casamento
+- Árvore Genealógica
+- Aniversário de Escola
+- Empresa/Natal
+- Debutante
+- Formatura
+- Homenagem Especial
+
+8. ESTRUTURA OFICIAL
+modelo-base-capsula-do-tempo/
+├── index.html
+├── style.css
+├── script.js
+├── dados-tema.js
+├── figurinhas/
+├── audio/
+│   ├── album/
+│   └── game/
+└── game/
+    ├── index.html
+    ├── style.css
+    └── script.js
+
+9. OBSERVAÇÃO COMERCIAL
+Este modelo pode ser vendido em três versões:
+- Simples: fotos + textos + QR Code.
+- Interativo: figurinhas + pacotes + colagem.
+- Premium: interativo + quiz + game + recompensas.
+
+
+10. FICHA DETALHADA POR FIGURINHA
+
+A partir desta versão, cada figurinha pode ter uma ficha detalhada própria.
+
+Você pode continuar usando o formato simples:
+
+["Título da Figurinha", "Descrição da figurinha."]
+
+Ou usar o formato profissional:
+
+{
+  titulo: "Fundação do Time",
+  descricao: "Registro da criação do time.",
+  ficha: {
+    nome: "Esporte Clube Exemplo",
+    categoria: "História do time",
+    ano: "1998",
+    local: "Beberibe-CE",
+    historia: "O time nasceu de encontros de amigos nos fins de semana.",
+    curiosidade: "A primeira bola foi comprada por contribuição dos jogadores.",
+    mensagem: "Uma história construída por comunidade, amizade e paixão."
+  }
+}
+
+CAMPOS ÚTEIS POR TEMA:
+
+Futebol amador:
+nome, apelido, posicao, camisa, time, temporada, local, historia, curiosidade, conquista, patrocinador, mensagem
+
+Casamento:
+titulo, data, local, pessoas, historia, mensagem, audio
+
+Árvore genealógica:
+nomeCompleto, parentesco, nascimento, falecimento, local, biografia, historia, mensagem
+
+Escola:
+nome, funcao, turma, ano, projeto, local, historia, conquista, mensagem
+
+Empresa:
+nome, cargo, setor, ano, projeto, conquista, cliente, historia, mensagem
+
+A ficha detalhada só aparece quando a figurinha for colada.
+
+
+TEMA CONFIGURADO:
+Craques da Várzea Digital — V2
+
+FICHA DETALHADA ATIVADA:
+Cada figurinha já está no formato profissional com campos como:
+nome, apelido, posição, camisa, time, temporada, local, história, curiosidade, conquista, patrocinador e mensagem.
+
+PALETA:
+- Preto
+- Grafite
+- Dourado
+- Branco
+
+O CLIENTE DEVE ENVIAR:
+1. Nome do time ou campeonato
+2. Escudo/logo
+3. Cidade/comunidade
+4. Foto principal da equipe
+5. Lista de jogadores
+6. Foto de cada jogador
+7. Posição de cada jogador
+8. Número da camisa
+9. Nome do técnico e comissão
+10. Fotos da torcida
+11. Fotos do campo
+12. Patrocinadores
+13. História resumida do time
+14. Títulos e jogos históricos
+15. Música ou áudio opcional

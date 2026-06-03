@@ -1,0 +1,59 @@
+
+/* ===== EDITOR OFFLINE DO QUIZ ===== */
+.quiz-editor-list{
+  display:grid;
+  gap:14px;
+}
+.quiz-editor-item{
+  background:rgba(255,255,255,.06);
+  border:1px solid rgba(245,197,66,.24);
+  border-radius:16px;
+  padding:12px;
+}
+.quiz-editor-item h3{
+  margin:0 0 10px;
+  color:#f5c542;
+  font-size:1rem;
+}
+.quiz-editor-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:10px;
+}
+.quiz-editor-grid label{
+  display:flex;
+  flex-direction:column;
+  gap:5px;
+  color:#f8e7b0;
+  font-size:.76rem;
+  font-weight:900;
+  text-transform:uppercase;
+}
+.quiz-editor-grid input,
+.quiz-editor-grid textarea,
+.quiz-editor-grid select{
+  border-radius:12px;
+  border:1px solid rgba(245,197,66,.28);
+  background:rgba(255,255,255,.08);
+  color:#fff;
+  padding:10px;
+  font-weight:700;
+}
+.quiz-editor-grid select option{color:#111}
+.quiz-editor-grid textarea{
+  min-height:70px;
+  resize:vertical;
+}
+.quiz-full{grid-column:1/-1}
+@media(max-width:800px){
+  .quiz-editor-grid{grid-template-columns:1fr}
+}
+
+
+#quizConfirmacaoOffline{
+  animation: quizPulse .25s ease-out;
+}
+@keyframes quizPulse{
+  from{transform:translateY(10px);opacity:.4}
+  to{transform:translateY(0);opacity:1}
+}

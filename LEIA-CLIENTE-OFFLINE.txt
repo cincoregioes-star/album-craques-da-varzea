@@ -1,0 +1,81 @@
+CRAQUES DA VÁRZEA — PRODUTO OFFLINE EDITÁVEL
+
+Como o cliente usa:
+
+1. Extraia a pasta do ZIP.
+2. Abra o arquivo index.html.
+3. Clique em “⚙️ Montar Álbum”.
+4. Escolha a figurinha.
+5. Clique em “Escolher foto da galeria”.
+6. Edite título, subtítulo, nome, posição, camisa, time, ano, local, história, curiosidade, conquista e mensagem.
+7. Clique em “Salvar figurinha neste aparelho”.
+
+Também é possível:
+- editar cores do álbum;
+- trocar música de fundo;
+- exportar backup;
+- importar backup;
+- limpar personalização.
+
+IMPORTANTE:
+Tudo fica salvo somente no navegador daquele aparelho.
+Para segurança, use “Exportar backup”.
+
+
+ATUALIZAÇÃO V2 — QUIZ EDITÁVEL
+
+Agora o painel “⚙️ Montar Álbum” também possui a aba “Quiz”.
+
+O cliente pode editar:
+- título do quiz;
+- descrição do quiz;
+- 10 perguntas;
+- opções A, B, C e D;
+- resposta correta;
+- comentário da resposta;
+- restaurar quiz original.
+
+Tudo fica salvo somente no aparelho.
+
+
+ATUALIZAÇÃO V3 — CONFIRMAÇÃO DO QUIZ
+
+Corrigido o botão “Salvar quiz neste aparelho”.
+Agora, ao salvar uma alteração no quiz, aparece:
+- alerta de confirmação;
+- mensagem visual no canto inferior da tela.
+
+
+ATUALIZAÇÃO V4 — QUIZ CORRIGIDO
+
+Corrigido erro:
+"Cannot read properties of undefined (reading 'trim')"
+
+Agora o salvamento do quiz aceita campos vazios sem quebrar.
+Ao salvar, aparece a confirmação normalmente.
+
+
+ATUALIZAÇÃO V5 — MENSAGEM DO QUIZ CORRIGIDA
+
+Removido o erro:
+"mostrarConfirmacaoQuiz is not defined"
+
+Agora, ao salvar o quiz, aparece apenas a mensagem visual:
+"Quiz salvo neste aparelho."
+
+A alteração continua salva normalmente no aparelho.
+
+
+ATUALIZAÇÃO V6 — COMPARTILHAMENTO OFFLINE
+
+Foi adicionada a aba “Compartilhar” dentro do botão “⚙️ Montar Álbum”.
+
+Agora o comprador pode:
+- exportar álbum para compartilhar;
+- exportar backup editável;
+- enviar a pasta do álbum + arquivo JSON para o time;
+- orientar jogadores, torcida, familiares e patrocinadores a abrirem o index.html.
+
+IMPORTANTE:
+Como o produto é offline e sem servidor, não existe link público automático.
+Para gerar link público, é necessário publicar a versão final em hospedagem.

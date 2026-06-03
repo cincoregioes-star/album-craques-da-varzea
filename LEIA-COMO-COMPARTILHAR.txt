@@ -1,0 +1,66 @@
+COMO COMPARTILHAR O ÁLBUM OFFLINE
+
+1. Abra o index.html.
+2. Clique em “⚙️ Montar Álbum”.
+3. Monte o álbum com fotos, textos, quiz, cores e música.
+4. Entre na aba “Compartilhar”.
+5. Clique em “Exportar álbum para compartilhar”.
+6. Envie para o time:
+   - a pasta inteira do álbum;
+   - o arquivo album-para-compartilhar-visualizacao.json.
+
+A pessoa que receber:
+1. Extrai/abre a pasta do álbum.
+2. Abre o index.html.
+3. Caso precise, importa o JSON pelo painel.
+
+Observação:
+Para compartilhar por link, será necessário publicar a versão final em uma hospedagem.
+
+
+ATUALIZAÇÃO V7 — HTML ÚNICO PARA WHATSAPP
+
+Agora existe a melhor opção para compartilhar:
+
+1. Abra o álbum.
+2. Clique em “⚙️ Montar Álbum”.
+3. Vá na aba “Compartilhar”.
+4. Clique em “Exportar HTML único para WhatsApp”.
+5. Envie o arquivo album-compartilhavel.html.
+
+A pessoa que receber abre esse HTML no navegador e vê o álbum pronto,
+sem precisar importar JSON manualmente.
+
+
+ATUALIZAÇÃO V8 — HTML ÚNICO COMPLETO
+
+Corrigido o problema em que o HTML compartilhável abria apenas com quiz ou título genérico.
+
+Agora o botão “Exportar HTML único completo” gera:
+- nome correto do álbum;
+- galeria de figurinhas padrão;
+- figurinhas personalizadas;
+- fichas detalhadas;
+- quiz;
+- cores personalizadas.
+
+Para compartilhar:
+1. Clique em Montar Álbum > Compartilhar.
+2. Clique em Exportar HTML único completo.
+3. Envie o arquivo album-compartilhavel.html pelo WhatsApp.
+
+
+ATUALIZAÇÃO V9 — QUIZ INTERATIVO NO HTML COMPARTILHADO
+
+Corrigido o quiz do arquivo album-compartilhavel.html.
+
+Antes:
+- as respostas já apareciam marcadas.
+
+Agora:
+- a pessoa escolhe uma alternativa;
+- clica em Enviar resposta;
+- vê se acertou ou errou;
+- no final aparece a pontuação;
+- se gabaritar, aparece mensagem de 3 pacotes;
+- se participar, aparece mensagem de 1 pacote.

@@ -1,0 +1,13 @@
+AJUSTE MOBILE V9.6 — ARRASTE REAL
+
+Correção aplicada:
+- o trilho horizontal agora recebe o gesto direto;
+- foram adicionados botões ◀ Página / Página ▶;
+- no celular, arraste a área do álbum para os lados;
+- se o toque não pegar em algum navegador, use os botões.
+
+Teste:
+1. Extraia a pasta.
+2. Abra index.html no celular.
+3. Na área do álbum, arraste para a esquerda/direita.
+4. Teste também os botões ◀ Página / Página ▶.
