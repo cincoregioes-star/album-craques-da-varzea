@@ -1,0 +1,1512 @@
+
+
+======================================================================PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 01: Fundação do Time.
+Rarity: Comum.
+
+Sticker number must be 01 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "FUNDAÇÃO DO TIME"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 02: Primeiro Escudo.
+Rarity: Comum.
+
+Sticker number must be 02 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PRIMEIRO ESCUDO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 03: Primeiro Uniforme.
+Rarity: Comum.
+
+Sticker number must be 03 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PRIMEIRO UNIFORME"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 04: Campo Onde Tudo Começou.
+Rarity: Comum.
+
+Sticker number must be 04 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CAMPO ONDE TUDO COMEÇOU"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 05: Primeira Vitória.
+Rarity: Comum.
+
+Sticker number must be 05 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PRIMEIRA VITÓRIA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 06: Primeiro Título.
+Rarity: Especial.
+
+Sticker number must be 06 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PRIMEIRO TÍTULO"
+Bottom subtitle: "ESPECIAL"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 07: Técnico Eduardo Professor Nunes.
+Rarity: Comum.
+
+Sticker number must be 07 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TÉCNICO EDUARDO PROFESSOR NUNES"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 08: Auxiliar Márcio Tático.
+Rarity: Comum.
+
+Sticker number must be 08 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "AUXILIAR MÁRCIO TÁTICO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 09: Preparador Felipe Pulso.
+Rarity: Comum.
+
+Sticker number must be 09 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PREPARADOR FELIPE PULSO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 10: Massagista Chico Cura.
+Rarity: Comum.
+
+Sticker number must be 10 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MASSAGISTA CHICO CURA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 11: Presidente Damião Mestre Alves.
+Rarity: Comum.
+
+Sticker number must be 11 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PRESIDENTE DAMIÃO MESTRE ALVES"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 12: Organizador Roberto Planilha.
+Rarity: Especial.
+
+Sticker number must be 12 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ORGANIZADOR ROBERTO PLANILHA"
+Bottom subtitle: "ESPECIAL"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 13: Tiago Paredão.
+Rarity: Comum.
+Jersey number on uniform must be 1. 
+Sticker number must be 13 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TIAGO PAREDÃO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 14: Igor Mãos Firmes.
+Rarity: Comum.
+Jersey number on uniform must be 12. 
+Sticker number must be 14 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "IGOR MÃOS FIRMES"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 15: Caio Relâmpago.
+Rarity: Comum.
+Jersey number on uniform must be 2. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 15 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CAIO RELÂMPAGO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 16: Ramon Muralha.
+Rarity: Comum.
+Jersey number on uniform must be 3. 
+Sticker number must be 16 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "RAMON MURALHA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 17: Beto Aço.
+Rarity: Comum.
+Jersey number on uniform must be 4. 
+Sticker number must be 17 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "BETO AÇO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 18: Luan Canhoto.
+Rarity: Comum.
+Jersey number on uniform must be 6. Luan Canhoto must clearly cross the ball with the LEFT FOOT. 
+Sticker number must be 18 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "LUAN CANHOTO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 19: Diego Trator.
+Rarity: Comum.
+Jersey number on uniform must be 5. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 19 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "DIEGO TRATOR"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 20: Nino Cadência.
+Rarity: Comum.
+Jersey number on uniform must be 8. 
+Sticker number must be 20 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "NINO CADÊNCIA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 21: Kelvin Maestro.
+Rarity: Comum.
+Jersey number on uniform must be 10. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 21 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "KELVIN MAESTRO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 22: Rafael Meia-Lua.
+Rarity: Comum.
+Jersey number on uniform must be 16. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 22 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "RAFAEL MEIA-LUA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 23: Clebson Motorzinho.
+Rarity: Comum.
+Jersey number on uniform must be 15. 
+Sticker number must be 23 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CLEBSON MOTORZINHO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 24: Alan Coringa.
+Rarity: Comum.
+Jersey number on uniform must be 13. 
+Sticker number must be 24 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ALAN CORINGA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 25: Juninho Faísca.
+Rarity: Comum.
+Jersey number on uniform must be 7. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 25 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "JUNINHO FAÍSCA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 26: Pedrinho Finta.
+Rarity: Comum.
+Jersey number on uniform must be 11. 
+Sticker number must be 26 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PEDRINHO FINTA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 27: Matheus Tanque.
+Rarity: Comum.
+Jersey number on uniform must be 9. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 27 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MATHEUS TANQUE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 28: Luiz Bala.
+Rarity: Comum.
+Jersey number on uniform must be 17. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 28 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "LUIZ BALA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 29: Bruno Matador.
+Rarity: Comum.
+Jersey number on uniform must be 18. If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 29 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "BRUNO MATADOR"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 30: Trio Ofensivo da Várzea.
+Rarity: Especial.
+
+Sticker number must be 30 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TRIO OFENSIVO DA VÁRZEA"
+Bottom subtitle: "ESPECIAL"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 31: Uniforme Principal.
+Rarity: Comum.
+
+Sticker number must be 31 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "UNIFORME PRINCIPAL"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 32: Uniforme Reserva.
+Rarity: Comum.
+
+Sticker number must be 32 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "UNIFORME RESERVA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 33: Escudo Oficial Atual.
+Rarity: Dourada.
+
+Sticker number must be 33 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ESCUDO OFICIAL ATUAL"
+Bottom subtitle: "DOURADA"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 34: Mascote Leão da Várzea.
+Rarity: Comum.
+
+Sticker number must be 34 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MASCOTE LEÃO DA VÁRZEA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 35: Bandeira do Clube.
+Rarity: Comum.
+
+Sticker number must be 35 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "BANDEIRA DO CLUBE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 36: Faixa Raça Bairro e Tradição.
+Rarity: Comum.
+
+Sticker number must be 36 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "FAIXA RAÇA BAIRRO E TRADIÇÃO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 37: Torcida Organizada Fúria Dourada.
+Rarity: Comum.
+
+Sticker number must be 37 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TORCIDA ORGANIZADA FÚRIA DOURADA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 38: Torcida Familiar Família UVC.
+Rarity: Comum.
+
+Sticker number must be 38 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TORCIDA FAMILIAR FAMÍLIA UVC"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 39: Torcedor Símbolo Seu João do Tambor.
+Rarity: Comum.
+
+Sticker number must be 39 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TORCEDOR SÍMBOLO SEU JOÃO DO TAMBOR"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 40: Zé do Microfone.
+Rarity: Comum.
+
+Sticker number must be 40 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ZÉ DO MICROFONE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 41: Bairro Novo Planalto.
+Rarity: Comum.
+
+Sticker number must be 41 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "BAIRRO NOVO PLANALTO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 42: Criançada da Base.
+Rarity: Comum.
+
+Sticker number must be 42 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CRIANÇADA DA BASE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 43: Arena do Cajueiro.
+Rarity: Comum.
+
+Sticker number must be 43 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ARENA DO CAJUEIRO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 44: Entrada do Campo.
+Rarity: Comum.
+
+Sticker number must be 44 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ENTRADA DO CAMPO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 45: Banco de Reservas.
+Rarity: Comum.
+
+Sticker number must be 45 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "BANCO DE RESERVAS"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 46: Vestiário da Raça.
+Rarity: Comum.
+
+Sticker number must be 46 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "VESTIÁRIO DA RAÇA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 47: Aquecimento Pré-Jogo.
+Rarity: Comum.
+
+Sticker number must be 47 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "AQUECIMENTO PRÉ-JOGO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 48: Foto Oficial do Elenco.
+Rarity: Especial.
+
+Sticker number must be 48 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "FOTO OFICIAL DO ELENCO"
+Bottom subtitle: "ESPECIAL"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 49: Maior Goleada.
+Rarity: Comum.
+
+Sticker number must be 49 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MAIOR GOLEADA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 50: Clássico do Bairro.
+Rarity: Comum.
+
+Sticker number must be 50 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CLÁSSICO DO BAIRRO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 51: Final da Copa Bairro Unido.
+Rarity: Comum.
+
+Sticker number must be 51 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "FINAL DA COPA BAIRRO UNIDO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 52: Gol Inesquecível de Kelvin Maestro.
+Rarity: Comum.
+If kicking or passing, clearly use the RIGHT FOOT. 
+Sticker number must be 52 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "GOL INESQUECÍVEL DE KELVIN MAESTRO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 53: Defesa Milagrosa de Tiago Paredão.
+Rarity: Comum.
+
+Sticker number must be 53 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "DEFESA MILAGROSA DE TIAGO PAREDÃO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 54: Virada Heroica.
+Rarity: Comum.
+
+Sticker number must be 54 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "VIRADA HEROICA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 55: Capitão Ramon Muralha.
+Rarity: Comum.
+Jersey number on uniform must be 3. 
+Sticker number must be 55 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CAPITÃO RAMON MURALHA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 56: Artilheiro Matheus Tanque.
+Rarity: Comum.
+Jersey number on uniform must be 9. 
+Sticker number must be 56 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ARTILHEIRO MATHEUS TANQUE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 57: Melhor Goleiro Tiago Paredão.
+Rarity: Comum.
+Jersey number on uniform must be 1. 
+Sticker number must be 57 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MELHOR GOLEIRO TIAGO PAREDÃO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 58: Melhor Meio-Campo Kelvin Maestro.
+Rarity: Comum.
+Jersey number on uniform must be 10. 
+Sticker number must be 58 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MELHOR MEIO-CAMPO KELVIN MAESTRO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 59: Revelação Juninho Faísca.
+Rarity: Comum.
+Jersey number on uniform must be 7. 
+Sticker number must be 59 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "REVELAÇÃO JUNINHO FAÍSCA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 60: Jogador Mais Regular Diego Trator.
+Rarity: Especial.
+Jersey number on uniform must be 5. 
+Sticker number must be 60 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "JOGADOR MAIS REGULAR DIEGO TRATOR"
+Bottom subtitle: "ESPECIAL"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 61: Mercadinho Central do Bairro.
+Rarity: Comum.
+
+Sticker number must be 61 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "MERCADINHO CENTRAL DO BAIRRO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 62: Auto Peças Beira Rio.
+Rarity: Comum.
+
+Sticker number must be 62 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "AUTO PEÇAS BEIRA RIO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 63: Pousada Sol Nascente.
+Rarity: Comum.
+
+Sticker number must be 63 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "POUSADA SOL NASCENTE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 64: Padaria Massa Quente.
+Rarity: Comum.
+
+Sticker number must be 64 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "PADARIA MASSA QUENTE"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 65: Farmácia Vida Nova.
+Rarity: Comum.
+
+Sticker number must be 65 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "FARMÁCIA VIDA NOVA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 66: Amigos do União da Várzea.
+Rarity: Especial.
+
+Sticker number must be 66 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "AMIGOS DO UNIÃO DA VÁRZEA"
+Bottom subtitle: "ESPECIAL"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 67: Craque Histórico Paulo Canhão.
+Rarity: Lendária.
+
+Sticker number must be 67 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "CRAQUE HISTÓRICO PAULO CANHÃO"
+Bottom subtitle: "LENDÁRIA"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 68: Ídolo da Torcida Tiago Paredão.
+Rarity: Lendária.
+Jersey number on uniform must be 1. 
+Sticker number must be 68 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "ÍDOLO DA TORCIDA TIAGO PAREDÃO"
+Bottom subtitle: "LENDÁRIA"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 69: Jovem Promessa Juninho Faísca.
+Rarity: Comum.
+Jersey number on uniform must be 7. 
+Sticker number must be 69 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "JOVEM PROMESSA JUNINHO FAÍSCA"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 70: Veterano Respeitado Beto Aço.
+Rarity: Comum.
+Jersey number on uniform must be 4. 
+Sticker number must be 70 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "VETERANO RESPEITADO BETO AÇO"
+Bottom subtitle: "UNIÃO DA VÁRZEA FC"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 71: Time Campeão de 2015.
+Rarity: Dourada.
+
+Sticker number must be 71 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "TIME CAMPEÃO DE 2015"
+Bottom subtitle: "DOURADA"
+
+
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 72: Selo Álbum Completo.
+Rarity: Cromada.
+
+Sticker number must be 72 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "SELO ÁLBUM COMPLETO"
+Bottom subtitle: "CROMADA"

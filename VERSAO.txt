@@ -1,0 +1,2 @@
+craques-da-varzea-offline-editor-v9-6-mobile-arraste-real
+Correção de arraste horizontal real no celular com botões auxiliares.

@@ -1,0 +1,41 @@
+MAPA DE ÁUDIOS — CRAQUES DA VÁRZEA
+
+audio/album/fundo.mp3
+- Uso: áudio de fundo do álbum
+- Arquivo: The Mountain
+
+audio/album/abrir-pacote.mp3
+- Uso: abrir pacotes
+- Arquivo: bomba(1).mp3
+
+audio/album/virar-pagina.mp3
+- Uso: mudança de página
+- Arquivo: page-turn(8).mp3
+
+audio/album/click.mp3
+- Uso: cliques gerais
+- Arquivo: click(1).mp3
+
+audio/album/colar-figurinha.mp3
+- Uso: colar figurinha
+- Arquivo: click(1).mp3
+
+audio/album/abrir-ficha.mp3
+- Uso: abrir ficha técnica/detalhes
+- Arquivo: click(1).mp3
+
+audio/game/fundo.mp3
+- Uso: fundo do game
+- Arquivo: The Mountain
+
+audio/game/foguete.mp3
+- Uso: ação principal/recompensa do game
+- Arquivo: foguete.mp3
+
+audio/game/match.mp3 e audio/game/win.mp3
+- Uso: efeitos do game
+- Arquivo: foguete.mp3
+
+audio/game/click.mp3
+- Uso: clique do game
+- Arquivo: click(1).mp3
