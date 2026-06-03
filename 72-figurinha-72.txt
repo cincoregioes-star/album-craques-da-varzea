@@ -1,0 +1,19 @@
+PROMPT BASE FIXO:
+Create a single ultra-realistic collectible football sticker in vertical 5:8 format.
+Same fictional club in all stickers: União da Várzea FC.
+Same premium black border with thin gold inner line, rounded corners and bottom title block in every sticker.
+Sticker number must always be inside a golden circular badge in the TOP RIGHT corner, always same size and same position.
+The sticker number is NOT the jersey number.
+All player stickers must use the exact same club uniform: black jersey with one horizontal gold chest band, gold collar trim, subtle gold sleeve trim, fictional União da Várzea FC crest on the left chest, black shorts, black socks with gold details, simple football boots, no sponsor logos, no real brands.
+Never change uniform colors or uniform design.
+Characters must look realistic and coherent with an amateur football team from Ceará, Brazil: majority light-skinned and light-to-medium brown-skinned players, smaller number of medium-brown and Black players.
+Text on image must be in Portuguese only.
+Main title at bottom in bold gold uppercase. Subtitle below in light gold or white.
+If left-footed, clearly show LEFT FOOT. If right-footed, clearly show RIGHT FOOT.
+
+Generate sticker 72: Selo Álbum Completo.
+Rarity: Cromada.
+
+Sticker number must be 72 inside the golden circular badge in the TOP RIGHT corner.
+Bottom title: "SELO ÁLBUM COMPLETO"
+Bottom subtitle: "CROMADA"
